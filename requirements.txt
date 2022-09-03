@@ -1,0 +1,4 @@
+packaging==20.9
+pandas==1.2.4
+streamlit==1.11.1
+requests==2.28.1
